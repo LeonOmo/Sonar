@@ -19,8 +19,8 @@ A 180° sweep object tracking radar using an Arduino Uno (R3). Distance measurem
 - Environment: Arduino IDE
 - Firmware Language: C++
 - Libraries:
-  - `<Servo.h>` for motor angular sweep control
-  - `<LedControl.h>` for MAX7219 SPI display driving
+  - <Servo.h> for motor angular sweep control
+  - <LedControl.h> for MAX7219 SPI display driving
 
 # How It Works
 
@@ -32,4 +32,4 @@ A 180° sweep object tracking radar using an Arduino Uno (R3). Distance measurem
 
 # Extras
 
-Simple and effective embedded system build. Open for feedback and future expansions (e.g., adding a buzzer alert or persistent trail memory).
+Fun Project i did to learn abit about the MAX7219 aswell that ive never really used a sonar in a project.
