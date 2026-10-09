@@ -1,6 +1,6 @@
 # Arduino Sonar System
 
-A 180° sweep object tracking radar using an Arduino Uno (R3). Distance measurement mapped directly onto an 8x8 MAX7219 LED matrix display.
+A 180° sweep object tracking radar using an Arduino Uno (R3). Distance measurement mapped directly onto an 8x8 MAX7219 LED matrix display and a Case for the Sonar to be more stable in.
 
 # Features
 
@@ -22,13 +22,10 @@ A 180° sweep object tracking radar using an Arduino Uno (R3). Distance measurem
   - <Servo.h> for motor angular sweep control
   - <LedControl.h> for MAX7219 SPI display driving
 
-# How It Works
+# Case
 
-1. The servo performs a smooth sweep loop from 0° to 180° and back.
-2. The ultrasonic sensor measures the echo return time at every step and converts it to centimeters.
-3. The angle is mapped across the 8 matrix columns (0°–180° -> Col 0–7).
-4. The distance is mapped across the 8 matrix rows (1cm–40cm -> Row 7–0).
-5. A single LED lights up on the matrix to mark the exact position of the detected object.
+<img width="1532" height="776" alt="Screenshot 2026-10-07 175710" src="https://github.com/user-attachments/assets/0044dcae-6aee-42a6-bb15-b8d8b9758ff7" />
+
 
 # Extras
 
