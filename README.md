@@ -24,7 +24,9 @@ A 180° sweep object tracking radar using an Arduino Uno (R3). Distance measurem
 
 # Case
 
-<img width="1532" height="776" alt="Screenshot 2026-10-07 175710" src="https://github.com/user-attachments/assets/0044dcae-6aee-42a6-bb15-b8d8b9758ff7" />
+<img width="452" height="337" alt="Screenshot 2026-10-10 001136" src="https://github.com/user-attachments/assets/904d910a-10ae-45f7-a443-aa8c033ea46c" />
+<img width="542" height="357" alt="Screenshot 2026-10-10 001130" src="https://github.com/user-attachments/assets/dfb6af54-e176-4bdf-b8f7-720ad2ba5c41" />
+<img width="527" height="211" alt="Screenshot 2026-10-10 001118" src="https://github.com/user-attachments/assets/cd3a15e6-94db-448b-9a2c-420068428dd5" />
 
 
 # Extras
