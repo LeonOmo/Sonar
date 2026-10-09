@@ -33,3 +33,8 @@ A 180° sweep object tracking radar using an Arduino Uno (R3). Distance measurem
 # Extras
 
 Fun Project i did to learn abit about the MAX7219 aswell that ive never really used a sonar in a project.
+
+# Extras
+Exporting failures
+<img width="693" height="549" alt="Screenshot 2026-10-07 175928" src="https://github.com/user-attachments/assets/86ad4213-3336-494c-a221-aad9fcdaf800" />
+
