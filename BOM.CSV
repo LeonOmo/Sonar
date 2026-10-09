@@ -1,1 +1,8 @@
 
+Component,Description / Function,Qty,Total Item Price,Link / Source
+Arduino Uno R3,Microcontroller Board (ATmega328P),1,€4.00,https://www.arduino.cc/
+SG90 Micro Servo,180-Degree Servo for Radar Sweep,1,€1.80,https://www.towerpro.com.tw/
+HC-SR04 Ultrasonic Sensor,Distance Measurement Sensor Module,1,€1.50,https://www.amazon.de/
+MAX7219 8x8 LED Matrix Module,SPI Display for Spatial Grid Mapping,1,€2.50,https://www.amazon.de/
+Breadboard & Jumper Wires,Prototyping Board and Connections,1,€2.20,https://www.amazon.de/
+TOTAL,,,€12.00,Estimated Hardware Cost
