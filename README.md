@@ -31,9 +31,10 @@ A 180° sweep object tracking radar using an Arduino Uno (R3). Distance measurem
 
 # Extras
 
+Credits: I got the attachment for the Servo from GrabCad
 Fun Project i did to learn abit about the MAX7219 aswell that ive never really used a sonar in a project.
 
-# Extras
+# Bonus
 
 Exporting failures
 
