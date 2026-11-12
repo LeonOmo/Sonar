@@ -39,7 +39,7 @@ Buying an Arduino Kit is recommended!
 
 # Bonus
 
-Exporting failures
+Exporting failures never end...
 
 <img width="493" height="349" alt="Screenshot 2026-10-07 175928" src="https://github.com/user-attachments/assets/86ad4213-3336-494c-a221-aad9fcdaf800" />
 
